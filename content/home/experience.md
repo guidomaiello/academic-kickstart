@@ -32,4 +32,12 @@ date_format = "2006"
   location = "Giessen, Germany"
   date_start = "2017-01-01"
   date_end = ""
+  
+  [[experience]]
+  title = "Research Associate"
+  company = "Northeastern University"
+  company_url = ""
+  location = "Boston, USA"
+  date_start = "2014-01-01"
+  date_end = "2016-01-01"
 +++
