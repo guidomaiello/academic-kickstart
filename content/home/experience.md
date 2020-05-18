@@ -40,4 +40,28 @@ date_format = "2006"
   location = "Boston, USA"
   date_start = "2014-01-01"
   date_end = "2016-01-01"
+  
+  [[experience]]
+  title = "PhD Candidate"
+  company = "University College London"
+  company_url = ""
+  location = "London, UK"
+  date_start = "2013-01-01"
+  date_end = "2016-01-01"
+  
+  [[experience]]
+  title = "Research Scholar"
+  company = "Schepens Eye Research Institute, Harvard Medical School"
+  company_url = ""
+  location = "Boston, USA"
+  date_start = "2012-01-01"
+  date_end = "2014-01-01"
+  
+  [[experience]]
+  title = "Didactic/Student Tutor"
+  company = "University of Genoa"
+  company_url = ""
+  location = "Genoa, Italy"
+  date_start = "2011-01-01"
+  date_end = "2012-01-01"
 +++
