@@ -22,7 +22,7 @@ organizations:
 
 interests:
 - Visually Guided Grasping
-- Visual perception
+- Visual Perception
 - Binocular Vision
 - Depth Perception
 - Motion Perception
