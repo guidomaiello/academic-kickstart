@@ -22,10 +22,12 @@ organizations:
 
 interests:
 - Visual perception
-- Depth Perception
 - Binocular Vision
+- Depth Perception
+- Motion Perception
 - Eye Movements
 - Visually Guided Grasping
+- Cooking
 
 education:
   courses:
