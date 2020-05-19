@@ -21,12 +21,12 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Visually Guided Grasping
 - Visual perception
 - Binocular Vision
 - Depth Perception
 - Motion Perception
 - Eye Movements
-- Visually Guided Grasping
 - Cooking
 
 education:
