@@ -1,6 +1,6 @@
 ---
 title: "The Perceptual Quality of the Oculus Rift for Immersive Virtual Reality"
-date: 2016-10-01
+date: 2019-01-01
 publishDate: 2020-05-19T11:56:45.947163Z
 authors: ["Manuela Chessa", "Guido Maiello", "Alessia Borsari", "Peter J. Bex"]
 publication_types: ["2"]
