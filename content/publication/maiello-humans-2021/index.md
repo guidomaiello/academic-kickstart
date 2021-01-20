@@ -1,0 +1,13 @@
+---
+title: "Humans Can Visually Judge Grasp Quality and Refine Their Judgments Through Visual and Haptic Feedback"
+date: 2021-01-01
+publishDate: 2021-01-20T11:03:58.238225Z
+authors: ["Guido Maiello", "Marcel Schepko", "Lina K. Klein", "Vivian C. Paulun", "Roland W. Fleming"]
+publication_types: ["2"]
+abstract: "How humans visually select where to grasp objects is determined by the physical object properties (e.g., size, shape, weight), the degrees of freedom of the arm and hand, as well as the task to be performed. We recently demonstrated that human grasps are near-optimal with respect to a weighted combination of different cost functions that make grasps uncomfortable, unstable, or impossible, e.g., due to unnatural grasp apertures or large torques. Here, we ask whether humans can consciously access these rules. We test if humans can explicitly judge grasp quality derived from rules regarding grasp size, orientation, torque, and visibility. More speciﬁcally, we test if grasp quality can be inferred (i) by using visual cues and motor imagery alone, (ii) from watching grasps executed by others, and (iii) through performing grasps, i.e., receiving visual, proprioceptive and haptic feedback. Stimuli were novel objects made of 10 cubes of brass and wood (side length 2.5 cm) in various conﬁgurations. On each object, one near-optimal and one sub-optimal grasp were selected based on one cost function (e.g., torque), while the other constraints (grasp size, orientation, and visibility) were kept approximately constant or counterbalanced. Participants were visually cued to the location of the selected grasps on each object and verbally reported which of the two grasps was best. Across three experiments, participants were required to either (i) passively view the static objects and imagine executing the two competing grasps, (ii) passively view videos of other participants grasping the objects, or (iii) actively grasp the objects themselves. Our results show that, for a majority of tested objects, participants could already judge grasp optimality from simply viewing the objects and imagining to grasp them, but were signiﬁcantly better in the video and grasping session. These ﬁndings suggest that humans can determine grasp quality even without performing the grasp—perhaps through motor imagery—and can further reﬁne their understanding of how to correctly grasp an object through sensorimotor feedback but also by passively viewing others grasp objects."
+featured: false
+publication: "*Frontiers in Neuroscience*"
+url_pdf: "https://www.frontiersin.org/articles/10.3389/fnins.2020.591898/full"
+doi: "10.3389/fnins.2020.591898"
+---
+
