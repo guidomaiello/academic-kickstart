@@ -1,7 +1,6 @@
 ---
 title: "An image-computable model of human visual shape similarity"
-date: 2020-01-01
-publishDate: 2020-05-19T15:09:01.270774Z
+date: 2021-01-01
 authors: ["Yaniv Morgenstern", "Frieder Hartmann", "Filipp Schmidt", "Henning Tiedemann", "Eugen Prokott", "Guido Maiello", "Roland W. Fleming"]
 publication_types: ["2"]
 featured: false
