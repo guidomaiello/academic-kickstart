@@ -22,8 +22,8 @@ date_format = "2006"
   company = "Justus Liebig University Giessen"
   company_url = ""
   location = "Giessen, Germany"
-  date_start = "2018-01-01"
-  date_end = ""
+  date_start = "2018-04-02"
+  date_end = "2020-07-02"
 
 [[experience]]
   title = "Post-Doctoral Research Fellow"
