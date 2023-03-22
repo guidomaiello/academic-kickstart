@@ -18,20 +18,20 @@ date_format = "2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Marie Skłodowska-Curie Research Fellow"
-  company = "Justus Liebig University Giessen"
-  company_url = ""
-  location = "Giessen, Germany"
-  date_start = "2018-04-02"
-  date_end = "2020-07-02"
-  
-[[experience]]
   title = "Lecturer"
   company = "University of Southampton"
   company_url = ""
   location = "Southampton, UK"
   date_start = "2023-02-01"
   date_end = ""
+  
+[[experience]]
+  title = "Marie Skłodowska-Curie Research Fellow"
+  company = "Justus Liebig University Giessen"
+  company_url = ""
+  location = "Giessen, Germany"
+  date_start = "2018-04-02"
+  date_end = "2020-07-02"
 
 [[experience]]
   title = "Post-Doctoral Research Fellow"
@@ -39,7 +39,7 @@ date_format = "2006"
   company_url = ""
   location = "Giessen, Germany"
   date_start = "2017-01-01"
-  date_end = ""
+  date_end = "2023-01-31"
   
   [[experience]]
   title = "Research Associate"
