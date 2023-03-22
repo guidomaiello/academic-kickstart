@@ -24,6 +24,14 @@ date_format = "2006"
   location = "Giessen, Germany"
   date_start = "2018-04-02"
   date_end = "2020-07-02"
+  
+[[experience]]
+  title = "Lecturer"
+  company = "University of Southampton"
+  company_url = ""
+  location = "Southampton, UK"
+  date_start = "2023-02-01"
+  date_end = ""
 
 [[experience]]
   title = "Post-Doctoral Research Fellow"
