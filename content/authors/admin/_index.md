@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Marie Skłodowska-Curie Fellow
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: Justus Liebig University Giessen
+- name: University of Southampton
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
