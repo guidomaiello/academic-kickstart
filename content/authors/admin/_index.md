@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer
+role: Lecturer & Programme Director, MSc Psychology
 
 # Organizations/Affiliations
 organizations:
-- name: University of Southampton
+- name: School of Psychology, University of Southampton
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
